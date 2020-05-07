@@ -1,0 +1,9 @@
+.ProfileInfo img {
+  width: 800px;
+}
+.ProfileInfo {
+  background-color: crimson;
+}
+.descriptionBlock {
+  padding: 10px;
+}
